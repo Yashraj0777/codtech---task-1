@@ -1,1 +1,9 @@
-# codtech---task-1
+Name: YASHRAJ BANRA
+Company: CODTECH IT SOLUTIONS
+ID: CT4WD3313
+Domain: Web Development
+Duration: June to July 2024
+
+
+OVERVIEW OF THE PROJECT
+Project name is DO LIST WEB APPLICATION
